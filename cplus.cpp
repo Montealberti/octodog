@@ -24,6 +24,36 @@ class Phone {
 	    int slots; 
 };
 
+class people{
+
+	public:
+		int graduationyear;
+		int children;
+
+	private:
+		char name = "John";
+		int age = 20;
+
+	public:
+	/****************************************************/
+	/***              getters                         ***/
+	/****************************************************/
+
+	int getAge(void)
+	{
+		return age;
+	}
+
+	char getName(void)
+	{
+		return name;
+	}
+
+	/****************************************************/
+	/***              setters                         ***/
+	/****************************************************/
+}
+
 int main() {
     
 	Phone Y6;        
