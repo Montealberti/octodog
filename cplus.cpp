@@ -18,6 +18,7 @@
 using namespace std;
 
 int tFunction(int parameter);
+int tFunction2(int parameter);
 
 class Phone {
 
