@@ -11,7 +11,7 @@
 
 /* What does the following program do? */
 /* What would you improve? */
-
+/* Hello world */
 
 #include <iostream>
 
