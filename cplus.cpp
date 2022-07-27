@@ -17,6 +17,8 @@
 
 using namespace std;
 
+int tFunction(int parameter);
+
 class Phone {
 
     public:
